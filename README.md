@@ -2,12 +2,14 @@
 
 Página desenvolvida durante o curso `Criando suas primeiras páginas com HTML e CSS` durante o 'Bootcamp Potência Tech iFood - Desenvolvimento de Jogos da DIO (Digital Innovation One).
 
-<h1 align="center">
+<p align="center">
+  
   <img src=".github/Trilha-de-CSS-DIO1.jpg" width="400">
   <img src=".github/Trilha-de-CSS-DIO2.jpg" width="400">
   <img src=".github/Trilha-de-CSS-DIO3.jpg" width="400">
   <img src=".github/Trilha-de-CSS-DIO4.jpg" width="400">
-</h1>
+  
+</p>
 
 <br>
 
